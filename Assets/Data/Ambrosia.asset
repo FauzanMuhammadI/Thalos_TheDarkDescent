@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0a4624cf41cbe245acbdb9db9a541dc, type: 3}
+  m_Name: Ambrosia
+  m_EditorClassIdentifier: 
+  <IsStackable>k__BackingField: 1
+  <MaxStackSize>k__BackingField: 10
+  <Name>k__BackingField: Ambrosia
+  <Description>k__BackingField: "+ 100 Max Health\n\nBelieved to be a gift from the
+    gods, distilled from the tears of Nyx and imbued with the essence of immortality,
+    it strengthens the bearer\u2019s life force.\n"
+  <ItemImage>k__BackingField: {fileID: 21300000, guid: a711f1de5d0cfb54dac839050c5f3e32,
+    type: 3}
+  modifiersData:
+  - statModifier: {fileID: 11400000, guid: 70f6d5fb6b3859d41a56cf0bb8d41050, type: 2}
+    value: 100
+  <actionSFX>k__BackingField: {fileID: 8300000, guid: 745d3b7c02ddcd64daec821d0443ea7d,
+    type: 3}

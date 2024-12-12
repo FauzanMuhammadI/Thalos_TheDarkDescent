@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af700bac53f25b5469ea133a37c3d7c4, type: 3}
+  m_Name: DialogActThree
+  m_EditorClassIdentifier: 
+  sentences:
+  - charName: Charon
+    colorText: {r: 0, g: 0, b: 0, a: 1}
+    charSprite: {fileID: 21300000, guid: 18317998ca513234db208297f704fa78, type: 3}
+    dialogBox: {fileID: 21300000, guid: 1fdf72e696fc169409709030295941a5, type: 3}
+    sentence: Ah... another lost soul. Do you know what lies beyond?
+  - charName: Thalos
+    colorText: {r: 0.84313726, g: 0.84313726, b: 0.84313726, a: 1}
+    charSprite: {fileID: 21300000, guid: 2bdb8fd383c5d5747897e33714b3c74e, type: 3}
+    dialogBox: {fileID: 21300000, guid: fb3ebdfcf41113b43bdde170d1981e4b, type: 3}
+    sentence: My wife was taken from me. I must save her. Please, help me.
+  - charName: Charon
+    colorText: {r: 0, g: 0, b: 0, a: 1}
+    charSprite: {fileID: 21300000, guid: 18317998ca513234db208297f704fa78, type: 3}
+    dialogBox: {fileID: 21300000, guid: 1fdf72e696fc169409709030295941a5, type: 3}
+    sentence: Help you? A coward knight who abandoned his comrades?
+  - charName: Thalos
+    colorText: {r: 0.84313726, g: 0.84313726, b: 0.84313726, a: 1}
+    charSprite: {fileID: 21300000, guid: 2bdb8fd383c5d5747897e33714b3c74e, type: 3}
+    dialogBox: {fileID: 21300000, guid: fb3ebdfcf41113b43bdde170d1981e4b, type: 3}
+    sentence: "Enough! I won\u2019t run anymore!"
+  - charName: Charon
+    colorText: {r: 0, g: 0, b: 0, a: 1}
+    charSprite: {fileID: 21300000, guid: 18317998ca513234db208297f704fa78, type: 3}
+    dialogBox: {fileID: 21300000, guid: 1fdf72e696fc169409709030295941a5, type: 3}
+    sentence: "Huh\u2026 Very well. But before that, the Lord of the Underworld wishes
+      to speak with you."

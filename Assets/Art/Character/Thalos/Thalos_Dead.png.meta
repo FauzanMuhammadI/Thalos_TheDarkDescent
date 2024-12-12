@@ -1,0 +1,567 @@
+fileFormatVersion: 2
+guid: e414ff9331537d14c9ffe01807149c3e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Thalos_Dead_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4686
+        width: 1562
+        height: 1562
+      alignment: 9
+      pivot: {x: 0.5106836, y: 0.1901715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a5f613ec0303c4bbcc4cfff40e6dee
+      internalID: 1367312186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thalos_Dead_1
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 4686
+        width: 1562
+        height: 1562
+      alignment: 9
+      pivot: {x: 0.5106836, y: 0.1901715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62416a7058e545e4eac1b584ebdf451e
+      internalID: -571583373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thalos_Dead_2
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 4686
+        width: 1562
+        height: 1562
+      alignment: 9
+      pivot: {x: 0.5106836, y: 0.1901715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e37330805dbbbc48a583f1c697e513d
+      internalID: 503500167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thalos_Dead_3
+      rect:
+        serializedVersion: 2
+        x: 4686
+        y: 4686
+        width: 1562
+        height: 1562
+      alignment: 9
+      pivot: {x: 0.5106836, y: 0.1901715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c026d636f718246973ad489dee9b03
+      internalID: 1536442521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thalos_Dead_4
+      rect:
+        serializedVersion: 2
+        x: 6248
+        y: 4686
+        width: 1562
+        height: 1562
+      alignment: 9
+      pivot: {x: 0.5106836, y: 0.1901715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9615463552bea47929e1fb7b54de3e
+      internalID: 1331553743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thalos_Dead_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3124
+        width: 1562
+        height: 1562
+      alignment: 9
+      pivot: {x: 0.5106836, y: 0.1901715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f267e4780b66daa49abe372dee22da3a
+      internalID: -1985290392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thalos_Dead_6
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 3124
+        width: 1562
+        height: 1562
+      alignment: 9
+      pivot: {x: 0.5106836, y: 0.1901715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900525f311c993746a0a2c8116ad1863
+      internalID: -1866196501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thalos_Dead_7
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 3124
+        width: 1562
+        height: 1562
+      alignment: 9
+      pivot: {x: 0.5106836, y: 0.1901715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbc75f0d84c6e84d81d7c1b15141bd0
+      internalID: -64948361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thalos_Dead_8
+      rect:
+        serializedVersion: 2
+        x: 4686
+        y: 3124
+        width: 1562
+        height: 1562
+      alignment: 9
+      pivot: {x: 0.5106836, y: 0.1901715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7a371661b8bae47a215425aecbdca2
+      internalID: 2002085756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thalos_Dead_9
+      rect:
+        serializedVersion: 2
+        x: 6248
+        y: 3124
+        width: 1562
+        height: 1562
+      alignment: 9
+      pivot: {x: 0.5106836, y: 0.1901715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5af7d91ece00e41b71a979f2189de9
+      internalID: -691476972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thalos_Dead_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1562
+        width: 1562
+        height: 1562
+      alignment: 9
+      pivot: {x: 0.5106836, y: 0.1901715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f771e044aa910fe49ac2573e78ad747d
+      internalID: 1778156603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thalos_Dead_11
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1562
+        width: 1562
+        height: 1562
+      alignment: 9
+      pivot: {x: 0.5106836, y: 0.1901715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4a13320e4a8af4d9ff924bc4cbe17b
+      internalID: -623237588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thalos_Dead_12
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 1562
+        width: 1562
+        height: 1562
+      alignment: 9
+      pivot: {x: 0.5106836, y: 0.1901715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0c413cf7a275a4abc226f2b2bc8ea5
+      internalID: 1928529144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thalos_Dead_13
+      rect:
+        serializedVersion: 2
+        x: 4686
+        y: 1562
+        width: 1562
+        height: 1562
+      alignment: 9
+      pivot: {x: 0.5106836, y: 0.1901715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cc6a46594109149a4c55f0e368e16a
+      internalID: -1250047828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thalos_Dead_14
+      rect:
+        serializedVersion: 2
+        x: 6248
+        y: 1562
+        width: 1562
+        height: 1562
+      alignment: 9
+      pivot: {x: 0.5106836, y: 0.1901715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1075f362e451eee4586f00ea23165b9e
+      internalID: 1302486600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thalos_Dead_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1562
+        height: 1562
+      alignment: 9
+      pivot: {x: 0.5106836, y: 0.1901715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556130b830f471b4a9925781adcb54a4
+      internalID: 970959018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thalos_Dead_16
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 0
+        width: 1562
+        height: 1562
+      alignment: 9
+      pivot: {x: 0.5106836, y: 0.1901715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9d204efaab9ab498be9283f7b968c7
+      internalID: -958168873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thalos_Dead_17
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 0
+        width: 1562
+        height: 1562
+      alignment: 9
+      pivot: {x: 0.5106836, y: 0.1901715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea3c39dc83fbe34495460599000dc15
+      internalID: 1249564250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thalos_Dead_18
+      rect:
+        serializedVersion: 2
+        x: 4686
+        y: 0
+        width: 1562
+        height: 1562
+      alignment: 9
+      pivot: {x: 0.5106836, y: 0.1901715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d783bb6b48b7d4bac659a813db6fef
+      internalID: 1379724312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thalos_Dead_19
+      rect:
+        serializedVersion: 2
+        x: 6248
+        y: 0
+        width: 1562
+        height: 1562
+      alignment: 9
+      pivot: {x: 0.5106836, y: 0.1901715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0010bc1ad7eaa4e44bd3742458f3070a
+      internalID: -1489443444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Thalos_Dead_0: 1367312186
+      Thalos_Dead_1: -571583373
+      Thalos_Dead_10: 1778156603
+      Thalos_Dead_11: -623237588
+      Thalos_Dead_12: 1928529144
+      Thalos_Dead_13: -1250047828
+      Thalos_Dead_14: 1302486600
+      Thalos_Dead_15: 970959018
+      Thalos_Dead_16: -958168873
+      Thalos_Dead_17: 1249564250
+      Thalos_Dead_18: 1379724312
+      Thalos_Dead_19: -1489443444
+      Thalos_Dead_2: 503500167
+      Thalos_Dead_3: 1536442521
+      Thalos_Dead_4: 1331553743
+      Thalos_Dead_5: -1985290392
+      Thalos_Dead_6: -1866196501
+      Thalos_Dead_7: -64948361
+      Thalos_Dead_8: 2002085756
+      Thalos_Dead_9: -691476972
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

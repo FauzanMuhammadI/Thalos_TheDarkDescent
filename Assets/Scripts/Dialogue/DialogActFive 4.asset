@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af700bac53f25b5469ea133a37c3d7c4, type: 3}
+  m_Name: DialogActFive 4
+  m_EditorClassIdentifier: 
+  sentences:
+  - charName: Apollo
+    colorText: {r: 0, g: 0, b: 0, a: 1}
+    charSprite: {fileID: 21300000, guid: f6f8dd120fa9cde47aa2caebab1ebef4, type: 3}
+    dialogBox: {fileID: 21300000, guid: 1fdf72e696fc169409709030295941a5, type: 3}
+    sentence: "You\u2019ve proven yourself, not just in strength, but in spirit.
+      Now you have the power to fight Erebos. Do not falter."
+  - charName: Thalos
+    colorText: {r: 0, g: 0, b: 0, a: 1}
+    charSprite: {fileID: 21300000, guid: 2bdb8fd383c5d5747897e33714b3c74e, type: 3}
+    dialogBox: {fileID: 21300000, guid: 1fdf72e696fc169409709030295941a5, type: 3}
+    sentence: "I won\u2019t fail. Thank you for your help. With this, I can save
+      Alethea."
+  - charName: Apollo
+    colorText: {r: 0, g: 0, b: 0, a: 1}
+    charSprite: {fileID: 21300000, guid: f6f8dd120fa9cde47aa2caebab1ebef4, type: 3}
+    dialogBox: {fileID: 21300000, guid: 1fdf72e696fc169409709030295941a5, type: 3}
+    sentence: "Alethea? That\u2019s my daughter. Who are you?"
+  - charName: Thalos
+    colorText: {r: 0, g: 0, b: 0, a: 1}
+    charSprite: {fileID: 21300000, guid: 2bdb8fd383c5d5747897e33714b3c74e, type: 3}
+    dialogBox: {fileID: 21300000, guid: 1fdf72e696fc169409709030295941a5, type: 3}
+    sentence: Alethea is my wife.
+  - charName: Apollo
+    colorText: {r: 0, g: 0, b: 0, a: 1}
+    charSprite: {fileID: 21300000, guid: f6f8dd120fa9cde47aa2caebab1ebef4, type: 3}
+    dialogBox: {fileID: 21300000, guid: 1fdf72e696fc169409709030295941a5, type: 3}
+    sentence: "What? She\u2019s your wife?"
+  - charName: Thalos
+    colorText: {r: 0, g: 0, b: 0, a: 1}
+    charSprite: {fileID: 21300000, guid: 2bdb8fd383c5d5747897e33714b3c74e, type: 3}
+    dialogBox: {fileID: 21300000, guid: 1fdf72e696fc169409709030295941a5, type: 3}
+    sentence: I promised to save her. And now I will.
+  - charName: Apollo
+    colorText: {r: 0, g: 0, b: 0, a: 1}
+    charSprite: {fileID: 21300000, guid: f6f8dd120fa9cde47aa2caebab1ebef4, type: 3}
+    dialogBox: {fileID: 21300000, guid: 1fdf72e696fc169409709030295941a5, type: 3}
+    sentence: Haha. What a fate. It seems our paths were meant to cross.
+  - charName: Thalos
+    colorText: {r: 0, g: 0, b: 0, a: 1}
+    charSprite: {fileID: 21300000, guid: 2bdb8fd383c5d5747897e33714b3c74e, type: 3}
+    dialogBox: {fileID: 21300000, guid: 1fdf72e696fc169409709030295941a5, type: 3}
+    sentence: "Let\u2019s save Alethea, together."

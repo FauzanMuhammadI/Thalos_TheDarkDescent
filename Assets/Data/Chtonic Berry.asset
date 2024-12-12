@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0a4624cf41cbe245acbdb9db9a541dc, type: 3}
+  m_Name: Chtonic Berry
+  m_EditorClassIdentifier: 
+  <IsStackable>k__BackingField: 1
+  <MaxStackSize>k__BackingField: 10
+  <Name>k__BackingField: 'Chtonic Berry '
+  <Description>k__BackingField: '+ 40 Health
+
+
+    Said to grow in the shadow of
+    underworld, imbued with restorative properties by the life force of fallen souls.
+
+'
+  <ItemImage>k__BackingField: {fileID: 21300000, guid: 4be779b48ea7a094e83027073f7be9b8,
+    type: 3}
+  modifiersData:
+  - statModifier: {fileID: 11400000, guid: d2b45750997b9124c853d2b7d7416a97, type: 2}
+    value: 40
+  <actionSFX>k__BackingField: {fileID: 8300000, guid: 745d3b7c02ddcd64daec821d0443ea7d,
+    type: 3}

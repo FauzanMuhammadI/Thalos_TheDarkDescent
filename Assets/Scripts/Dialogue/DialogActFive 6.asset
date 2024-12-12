@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af700bac53f25b5469ea133a37c3d7c4, type: 3}
+  m_Name: DialogActFive 6
+  m_EditorClassIdentifier: 
+  sentences:
+  - charName: Alethea
+    colorText: {r: 0, g: 0, b: 0, a: 1}
+    charSprite: {fileID: 21300000, guid: 704d7aadd34f9f94d86ff7903bb06675, type: 3}
+    dialogBox: {fileID: 21300000, guid: 1fdf72e696fc169409709030295941a5, type: 3}
+    sentence: "Thalos\u2026"
+  - charName: Thalos
+    colorText: {r: 0, g: 0, b: 0, a: 1}
+    charSprite: {fileID: 21300000, guid: 2bdb8fd383c5d5747897e33714b3c74e, type: 3}
+    dialogBox: {fileID: 21300000, guid: 1fdf72e696fc169409709030295941a5, type: 3}
+    sentence: Thea! Are you hurt? Are you okay?
+  - charName: Alethea
+    colorText: {r: 0, g: 0, b: 0, a: 1}
+    charSprite: {fileID: 21300000, guid: 704d7aadd34f9f94d86ff7903bb06675, type: 3}
+    dialogBox: {fileID: 21300000, guid: 1fdf72e696fc169409709030295941a5, type: 3}
+    sentence: "I\u2019m fine, but you have to be careful! Erebos\u2014he\u2019ll
+      be back any moment!"
+  - charName: Thalos
+    colorText: {r: 0, g: 0, b: 0, a: 1}
+    charSprite: {fileID: 21300000, guid: 2bdb8fd383c5d5747897e33714b3c74e, type: 3}
+    dialogBox: {fileID: 21300000, guid: 1fdf72e696fc169409709030295941a5, type: 3}
+    sentence: "Stay strong, Thea. I\u2019ll get you out of here."
+  - charName: 
+    colorText: {r: 0.84313726, g: 0.84313726, b: 0.84313726, a: 1}
+    charSprite: {fileID: 21300000, guid: 82c722675e31aa34f8ee17043062c506, type: 3}
+    dialogBox: {fileID: 21300000, guid: fb3ebdfcf41113b43bdde170d1981e4b, type: 3}
+    sentence: '[A deep, mocking laugh echoes through the chamber as Erebos emerges
+      from the shadows, his towering form exuding menace.]
+
+'
+  - charName: Erebos
+    colorText: {r: 0.84313726, g: 0.84313726, b: 0.84313726, a: 1}
+    charSprite: {fileID: 21300000, guid: 949d13a2f27fe2242b999735803f2308, type: 3}
+    dialogBox: {fileID: 21300000, guid: fb3ebdfcf41113b43bdde170d1981e4b, type: 3}
+    sentence: "What a pitiful sight. How amusing that you\u2019ve made it this far,
+      knight. Tell me, how did a failure like you stumble your way into my domain?"
+  - charName: Thalos
+    colorText: {r: 0, g: 0, b: 0, a: 1}
+    charSprite: {fileID: 21300000, guid: 2bdb8fd383c5d5747897e33714b3c74e, type: 3}
+    dialogBox: {fileID: 21300000, guid: 1fdf72e696fc169409709030295941a5, type: 3}
+    sentence: Erebos! Release her, now!
+  - charName: Erebos
+    colorText: {r: 0.84313726, g: 0.84313726, b: 0.84313726, a: 1}
+    charSprite: {fileID: 21300000, guid: 949d13a2f27fe2242b999735803f2308, type: 3}
+    dialogBox: {fileID: 21300000, guid: fb3ebdfcf41113b43bdde170d1981e4b, type: 3}
+    sentence: Hahaha! And what will you do if I refuse? You, a broken man, thinking
+      you can challenge me? Foolish.
+  - charName: Thalos
+    colorText: {r: 0, g: 0, b: 0, a: 1}
+    charSprite: {fileID: 21300000, guid: 2bdb8fd383c5d5747897e33714b3c74e, type: 3}
+    dialogBox: {fileID: 21300000, guid: 1fdf72e696fc169409709030295941a5, type: 3}
+    sentence: "I\u2019ll save her, no matter what it takes. Even if it costs me my
+      life, I\u2019ll stop you."
+  - charName: Erebos
+    colorText: {r: 0.84313726, g: 0.84313726, b: 0.84313726, a: 1}
+    charSprite: {fileID: 21300000, guid: 949d13a2f27fe2242b999735803f2308, type: 3}
+    dialogBox: {fileID: 21300000, guid: fb3ebdfcf41113b43bdde170d1981e4b, type: 3}
+    sentence: "How noble, how naive. Very well, knight. Show me if your resolve is
+      stronger than your cowardice. Come and face me\u2014if you dare."
+  - charName: Alethea
+    colorText: {r: 0, g: 0, b: 0, a: 1}
+    charSprite: {fileID: 21300000, guid: 704d7aadd34f9f94d86ff7903bb06675, type: 3}
+    dialogBox: {fileID: 21300000, guid: 1fdf72e696fc169409709030295941a5, type: 3}
+    sentence: "Thalos, be careful! He\u2019s stronger than anyone you\u2019ve faced!"
+  - charName: Thalos
+    colorText: {r: 0, g: 0, b: 0, a: 1}
+    charSprite: {fileID: 21300000, guid: 2bdb8fd383c5d5747897e33714b3c74e, type: 3}
+    dialogBox: {fileID: 21300000, guid: 1fdf72e696fc169409709030295941a5, type: 3}
+    sentence: "I\u2019ve promised I\u2019d protect you, Thea. And i\u2019ll keep
+      that promise."

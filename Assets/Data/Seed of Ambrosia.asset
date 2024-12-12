@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0a4624cf41cbe245acbdb9db9a541dc, type: 3}
+  m_Name: Seed of Ambrosia
+  m_EditorClassIdentifier: 
+  <IsStackable>k__BackingField: 1
+  <MaxStackSize>k__BackingField: 1
+  <Name>k__BackingField: 'Seed of Ambrosia '
+  <Description>k__BackingField: 'This sacred seed holds the essence of immortality,
+    ready to bloom into a flower that enhances the vitality of all who nurture it.
+
+
+
+    Plant
+    it in River Styx area, and get the mysterious fruit'
+  <ItemImage>k__BackingField: {fileID: 21300000, guid: ef4f1a52a2b66d54ba59c6a336e8907d,
+    type: 3}
+  modifiersData: []
+  <actionSFX>k__BackingField: {fileID: 8300000, guid: 745d3b7c02ddcd64daec821d0443ea7d,
+    type: 3}

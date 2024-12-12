@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af700bac53f25b5469ea133a37c3d7c4, type: 3}
+  m_Name: DialogActOne
+  m_EditorClassIdentifier: 
+  sentences:
+  - charName: King
+    colorText: {r: 0, g: 0, b: 0, a: 1}
+    charSprite: {fileID: 21300000, guid: d99f794d6bc0a194f9131576aeac34dc, type: 3}
+    dialogBox: {fileID: 21300000, guid: 1fdf72e696fc169409709030295941a5, type: 3}
+    sentence: "Thalos of Astoria, once I held high hopes for you. But your cowardice
+      on the battlefield, your abandonment of your brothers in their needs\u2014leaves
+      me no choice. I strip you of your title as a knight of Corinth."
+  - charName: 
+    colorText: {r: 0, g: 0, b: 0, a: 1}
+    charSprite: {fileID: 21300000, guid: 82c722675e31aa34f8ee17043062c506, type: 3}
+    dialogBox: {fileID: 21300000, guid: 1fdf72e696fc169409709030295941a5, type: 3}
+    sentence: '[Thalos clenches his fists, unable to meet the king''s gaze.]'
+  - charName: King
+    colorText: {r: 0, g: 0, b: 0, a: 1}
+    charSprite: {fileID: 21300000, guid: d99f794d6bc0a194f9131576aeac34dc, type: 3}
+    dialogBox: {fileID: 21300000, guid: 1fdf72e696fc169409709030295941a5, type: 3}
+    sentence: You swore an oath to protect this kingdom. Yet, in the face of fear,
+      you fled... and your comrades paid the ultimate price.
+  - charName: King
+    colorText: {r: 0, g: 0, b: 0, a: 1}
+    charSprite: {fileID: 21300000, guid: d99f794d6bc0a194f9131576aeac34dc, type: 3}
+    dialogBox: {fileID: 21300000, guid: 1fdf72e696fc169409709030295941a5, type: 3}
+    sentence: You are no longer a knight. From this day forward, you are banished
+      from this kingdom. You will bear the mark of your disgrace.
+  - charName: 
+    colorText: {r: 0, g: 0, b: 0, a: 1}
+    charSprite: {fileID: 21300000, guid: 82c722675e31aa34f8ee17043062c506, type: 3}
+    dialogBox: {fileID: 21300000, guid: 1fdf72e696fc169409709030295941a5, type: 3}
+    sentence: '[Thalos remains silent, his mind tormented by guilt.]'
+  - charName: King
+    colorText: {r: 0, g: 0, b: 0, a: 1}
+    charSprite: {fileID: 21300000, guid: d99f794d6bc0a194f9131576aeac34dc, type: 3}
+    dialogBox: {fileID: 21300000, guid: 1fdf72e696fc169409709030295941a5, type: 3}
+    sentence: Now, leave.

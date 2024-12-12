@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af700bac53f25b5469ea133a37c3d7c4, type: 3}
+  m_Name: DialogActThree 2
+  m_EditorClassIdentifier: 
+  sentences:
+  - charName: Hades
+    colorText: {r: 0, g: 0, b: 0, a: 1}
+    charSprite: {fileID: 21300000, guid: 4de718def8c775e48a4db6cfee3dd176, type: 3}
+    dialogBox: {fileID: 21300000, guid: 1fdf72e696fc169409709030295941a5, type: 3}
+    sentence: Thalos. Many come here seeking redemption. Why have you come?
+  - charName: Thalos
+    colorText: {r: 0.84313726, g: 0.84313726, b: 0.84313726, a: 1}
+    charSprite: {fileID: 21300000, guid: 2bdb8fd383c5d5747897e33714b3c74e, type: 3}
+    dialogBox: {fileID: 21300000, guid: fb3ebdfcf41113b43bdde170d1981e4b, type: 3}
+    sentence: I seek to fulfill a promise to my wife, Alethea.
+  - charName: Hades
+    colorText: {r: 0, g: 0, b: 0, a: 1}
+    charSprite: {fileID: 21300000, guid: 4de718def8c775e48a4db6cfee3dd176, type: 3}
+    dialogBox: {fileID: 21300000, guid: 1fdf72e696fc169409709030295941a5, type: 3}
+    sentence: You failed her once. Why will this time be different?
+  - charName: Thalos
+    colorText: {r: 0.84313726, g: 0.84313726, b: 0.84313726, a: 1}
+    charSprite: {fileID: 21300000, guid: 2bdb8fd383c5d5747897e33714b3c74e, type: 3}
+    dialogBox: {fileID: 21300000, guid: fb3ebdfcf41113b43bdde170d1981e4b, type: 3}
+    sentence: Because she is all I have left.
+  - charName: Hades
+    colorText: {r: 0, g: 0, b: 0, a: 1}
+    charSprite: {fileID: 21300000, guid: 4de718def8c775e48a4db6cfee3dd176, type: 3}
+    dialogBox: {fileID: 21300000, guid: 1fdf72e696fc169409709030295941a5, type: 3}
+    sentence: "Bold words for a broken man. Coincidentally, I have a matter that
+      needs resolving. Disturbances ripple through my realm\u2014chaos that I cannot
+      abide."
+  - charName: Thalos
+    colorText: {r: 0.84313726, g: 0.84313726, b: 0.84313726, a: 1}
+    charSprite: {fileID: 21300000, guid: 2bdb8fd383c5d5747897e33714b3c74e, type: 3}
+    dialogBox: {fileID: 21300000, guid: fb3ebdfcf41113b43bdde170d1981e4b, type: 3}
+    sentence: "Let me handle it. Give me the chance to prove my worth to you\u2014and
+      to her."
+  - charName: Hades
+    colorText: {r: 0, g: 0, b: 0, a: 1}
+    charSprite: {fileID: 21300000, guid: 4de718def8c775e48a4db6cfee3dd176, type: 3}
+    dialogBox: {fileID: 21300000, guid: 1fdf72e696fc169409709030295941a5, type: 3}
+    sentence: "You?  someone who\u2019s trembling on the edge of despair? You wouldn\u2019t
+      last a heartbeat in the depths of the underworld."
+  - charName: Thalos
+    colorText: {r: 0.84313726, g: 0.84313726, b: 0.84313726, a: 1}
+    charSprite: {fileID: 21300000, guid: 2bdb8fd383c5d5747897e33714b3c74e, type: 3}
+    dialogBox: {fileID: 21300000, guid: fb3ebdfcf41113b43bdde170d1981e4b, type: 3}
+    sentence: I may be weak, but my love for Alethea gives me strength. Give me the
+      task, and I will deliver what you seek.
+  - charName: 
+    colorText: {r: 0, g: 0, b: 0, a: 1}
+    charSprite: {fileID: 21300000, guid: 82c722675e31aa34f8ee17043062c506, type: 3}
+    dialogBox: {fileID: 21300000, guid: 1fdf72e696fc169409709030295941a5, type: 3}
+    sentence: '[Hades rises, summoning a gleaming sword.]'
+  - charName: Hades
+    colorText: {r: 0, g: 0, b: 0, a: 1}
+    charSprite: {fileID: 21300000, guid: 4de718def8c775e48a4db6cfee3dd176, type: 3}
+    dialogBox: {fileID: 21300000, guid: 1fdf72e696fc169409709030295941a5, type: 3}
+    sentence: Hahahaha
+  - charName: Hades
+    colorText: {r: 0, g: 0, b: 0, a: 1}
+    charSprite: {fileID: 21300000, guid: 4de718def8c775e48a4db6cfee3dd176, type: 3}
+    dialogBox: {fileID: 21300000, guid: 1fdf72e696fc169409709030295941a5, type: 3}
+    sentence: "Your resolve amuses me, Thalos. Very well. Take this\u2014the Blade
+      of Lagaton. Forged in the fires of Asphodel, it reflects the strength of your
+      spirit. But know this the blade\u2019s power lies not in its steel, but in
+      the wielder\u2019s soul."
+  - charName: Thalos
+    colorText: {r: 0.84313726, g: 0.84313726, b: 0.84313726, a: 1}
+    charSprite: {fileID: 21300000, guid: 2bdb8fd383c5d5747897e33714b3c74e, type: 3}
+    dialogBox: {fileID: 21300000, guid: fb3ebdfcf41113b43bdde170d1981e4b, type: 3}
+    sentence: Thank you, Lord Hades. I will not fail you.
+  - charName: Hades
+    colorText: {r: 0, g: 0, b: 0, a: 1}
+    charSprite: {fileID: 21300000, guid: 4de718def8c775e48a4db6cfee3dd176, type: 3}
+    dialogBox: {fileID: 21300000, guid: 1fdf72e696fc169409709030295941a5, type: 3}
+    sentence: Leave. Face your demons. Only then you will understand the cost of
+      redemption.

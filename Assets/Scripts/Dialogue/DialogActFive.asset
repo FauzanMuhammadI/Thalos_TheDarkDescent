@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af700bac53f25b5469ea133a37c3d7c4, type: 3}
+  m_Name: DialogActFive
+  m_EditorClassIdentifier: 
+  sentences:
+  - charName: Thalos
+    colorText: {r: 0.84313726, g: 0.84313726, b: 0.84313726, a: 1}
+    charSprite: {fileID: 21300000, guid: 2bdb8fd383c5d5747897e33714b3c74e, type: 3}
+    dialogBox: {fileID: 21300000, guid: fb3ebdfcf41113b43bdde170d1981e4b, type: 3}
+    sentence: "Asphodel... The flames here burn hotter than my regrets. If Alethea\u2019s
+      light is fading, I can\u2019t waste any time."
+  - charName: Apollo
+    colorText: {r: 0, g: 0, b: 0, a: 1}
+    charSprite: {fileID: 21300000, guid: f6f8dd120fa9cde47aa2caebab1ebef4, type: 3}
+    dialogBox: {fileID: 21300000, guid: 1fdf72e696fc169409709030295941a5, type: 3}
+    sentence: Who are you, knight? I am Apollo, the Lightbearer. I seek one strong
+      enough to stand against Erebos and protect what is dear to me.
+  - charName: Thalos
+    colorText: {r: 0.84313726, g: 0.84313726, b: 0.84313726, a: 1}
+    charSprite: {fileID: 21300000, guid: 2bdb8fd383c5d5747897e33714b3c74e, type: 3}
+    dialogBox: {fileID: 21300000, guid: fb3ebdfcf41113b43bdde170d1981e4b, type: 3}
+    sentence: "I am Thalos. I\u2019ve come to defeat Erebos. If you\u2019re here
+      for the same reason, then we should work together."
+  - charName: Apollo
+    colorText: {r: 0, g: 0, b: 0, a: 1}
+    charSprite: {fileID: 21300000, guid: f6f8dd120fa9cde47aa2caebab1ebef4, type: 3}
+    dialogBox: {fileID: 21300000, guid: 1fdf72e696fc169409709030295941a5, type: 3}
+    sentence: Many claim strength, yet few possess it when the time comes. If we
+      are to join forces, I must know if your resolve can withstand the trials ahead.
+  - charName: Thalos
+    colorText: {r: 0.84313726, g: 0.84313726, b: 0.84313726, a: 1}
+    charSprite: {fileID: 21300000, guid: 2bdb8fd383c5d5747897e33714b3c74e, type: 3}
+    dialogBox: {fileID: 21300000, guid: fb3ebdfcf41113b43bdde170d1981e4b, type: 3}
+    sentence: Test me however you wish. I will not falter.
+  - charName: Apollo
+    colorText: {r: 0, g: 0, b: 0, a: 1}
+    charSprite: {fileID: 21300000, guid: f6f8dd120fa9cde47aa2caebab1ebef4, type: 3}
+    dialogBox: {fileID: 21300000, guid: 1fdf72e696fc169409709030295941a5, type: 3}
+    sentence: Very well. Clear this challenge, and you shall earn my aid.
